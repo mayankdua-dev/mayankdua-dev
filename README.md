@@ -1,16 +1,30 @@
-<h1 align="center">Hello 👋, I'm Mayank</h1>
+# Hi there, I'm Mayank Dua 👋
 
-- I'm a Software Developer Engineer at Uniphore
-- I have done my Post Graduation, Master of Computer Applications (MCA) 🎓 from National Institute of Technology, Karnataka (NITK) 🏛.
-- I'm a full stack MERN developer and ML enthusiast.
-- I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
+## About Me
 
-<hr />
+Backend Engineer with 3+ years of experience building **scalable distributed systems, event-driven microservices, and high-throughput backend services** using **Java, Spring Boot, and Kafka**.  
+Passionate about **system design, cloud-native architectures, and backend optimization** at scale.
 
-### Talking about Personal Stuffs:
+- 📍 Based in India  
+- 💼 Currently at **Uniphore / Infoworks.io**  
+- 🌱 Constantly learning **advanced distributed systems, cloud platforms, and high-performance backend architectures**  
 
-- 🌱 I also enjoy solving algorithmic problems on various coding platforms.
+---
 
-- 🔭 I’m currently working on **Web Development and Machine Learning 💻.**
+## Tech Stack
 
-- 📫 You can reach me at **mayankdua297@gmail.com** or through linkedin <a href="https://linkedin.com/in/mayankdua297" target="blank">**@mayankdua297**</a>
+**Languages:** Java, TypeScript, C++, SQL (PostgreSQL), NoSQL (MongoDB)  
+**Frameworks & Backend:** Spring Boot, Spring Security, REST APIs, gRPC, Apache Kafka, Redis, Elasticsearch  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda), Azure, Docker, Kubernetes, Jenkins, CI/CD  
+**Observability & Reliability:** OpenTelemetry, Distributed Tracing, Grafana, Resilience4j, Swagger  
+**Core Concepts:** System Design, HLD, LLD, Data Structures & Algorithms  
+
+---
+
+## Contact Me
+
+- 📫 Email: mayankdua297@gmail.com  
+- 📞 Phone: +91 8376016624  
+- 🔗 LinkedIn: [Mayank Dua](https://linkedin.com/in/mayankdua)  
+- 💻 GitHub: [Mayank Dua](https://github.com/mayankdua)  
+- 🧩 LeetCode: [Mayank Dua](https://leetcode.com/mayankdua)  
