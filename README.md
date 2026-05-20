@@ -13,8 +13,8 @@ Passionate about **system design, cloud-native architectures, and backend optimi
 
 ## Tech Stack
 
-**Languages:** Java, TypeScript, C++, SQL (PostgreSQL), NoSQL (MongoDB)
-**Frontend:** React.js, Redux, TypeScript, JavaScript (ES6+), HTML5, SCSS/CSS3, React Virtuoso, Cypress
+**Languages:** Java, TypeScript, C++, SQL (PostgreSQL), NoSQL (MongoDB)  
+**Frontend:** React.js, Redux, TypeScript, JavaScript (ES6+), HTML5, SCSS/CSS3, React Virtuoso, Cypress  
 **Frameworks & Backend:** Spring Boot, Spring Security, REST APIs, gRPC, Apache Kafka, Redis, Elasticsearch  
 **Cloud & DevOps:** AWS (EC2, S3, Lambda), Azure, Docker, Kubernetes, Jenkins, CI/CD  
 **Observability & Reliability:** OpenTelemetry, Distributed Tracing, Grafana, Resilience4j, Swagger  
