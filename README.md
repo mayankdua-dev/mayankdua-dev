@@ -25,6 +25,5 @@ Passionate about **system design, cloud-native architectures, and backend optimi
 
 - 📫 Email: mayankdua297@gmail.com  
 - 📞 Phone: +91 8376016624  
-- 🔗 LinkedIn: [Mayank Dua](https://linkedin.com/in/mayankdua)  
-- 💻 GitHub: [Mayank Dua](https://github.com/mayankdua)  
-- 🧩 LeetCode: [Mayank Dua](https://leetcode.com/mayankdua)  
+- 🔗 LinkedIn: [Mayank Dua](https://linkedin.com/in/mayankdua297)  
+- 💻 GitHub: [Mayank Dua](https://github.com/mayankdua-dev)
